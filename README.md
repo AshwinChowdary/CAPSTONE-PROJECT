@@ -78,4 +78,8 @@ flowchart TD
    - Outputs are rendered inline — no need for separate server.
    - Supports production deployment via `panel serve` if needed.
 
+## 📸 Screenshot of the Final Plot
 
+This is the dynamic price visualization generated using Bokeh + Panel in Google Colab:
+
+![Live Price Plot](plot_output.png)
